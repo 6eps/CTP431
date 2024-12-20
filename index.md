@@ -12,4 +12,6 @@ used LPC(linear predictive coding) for filter, and extract glottals from inverse
 
 {% include embed-audio.html src="../../assets/audio/sys.wav" %}
 
+<audio controls src="/assets/audio/sys.wav"></audio>
+
 .
