@@ -16,3 +16,5 @@ used LPC(linear predictive coding) for filter, and extract glottals from inverse
 ../../assets/audio/SYS.wav
 
 .
+
+![Audio](/SYS.wav)
